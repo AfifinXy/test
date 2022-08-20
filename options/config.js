@@ -41,11 +41,11 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 
-global.owner = ['6285157740529']
-global.premium = ['6285157740529']
-global.botname = 'Z7 BOT'
-global.packname = 'Zero YT7'
-global.author = 'Zero YT7'
+global.owner = ['628974040065']
+global.premium = ['628974040065']
+global.botname = 'BotFin'
+global.packname = 'FinBot'
+global.author = 'BotFin'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
